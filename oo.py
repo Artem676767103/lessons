@@ -1,4 +1,4 @@
-print("hi")
+print("ho")
 print("hello")
 
 number1 = "56"
